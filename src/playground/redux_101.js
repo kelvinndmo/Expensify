@@ -47,7 +47,7 @@ const  countReducer = (state = {count: 0}, action) => {
          
          default:
            return state;
-    }}
+    }} 
  
 //  const unsub = store.subscribe(() => {
 //      console.log(store.getState())
